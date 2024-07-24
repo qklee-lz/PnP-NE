@@ -1,5 +1,5 @@
 # PnP-NE
-The codes for the work "PnP-NE: A Plug-and-Play Neighborhood Exploration for Volumetric Medical Image Segmentation"
+The codes for the work "Empowering 2D Neural Network for 3D Medical Image Segmentation via Neighborhood Information Fusion"
 
 
 ## Codes
